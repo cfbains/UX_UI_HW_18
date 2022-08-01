@@ -445,6 +445,7 @@ hr {
   justify-content: center;
   flex-direction: column;
   grid-area: main;
+  margin-right: 15%;
 }
 
 .projectRight h3 {
